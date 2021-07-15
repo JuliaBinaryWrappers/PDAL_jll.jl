@@ -1,0 +1,236 @@
+[[PDAL]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5576dd676a98882c04d2491913a3c23f8a3d6b30"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "6e9c7b1f7020bad31113b0b39dd92d8077e8e51ae809d00450aaaa92b255e8ed"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[PDAL]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c432fbb70dcf01a84bfa635fa080297d4bd88de0"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "4aae74ac66c42b05d2789b4d9187d2343992e22e7a394ec5cdb65400aba9baaa"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[PDAL]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3ae9b891dde99703090c303f76fd2ba464aea054"
+libc = "musl"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "d0270e1e036f800d40389e435283e11a17f766e18a36642950252abb2ed8fbaa"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.aarch64-linux-musl-cxx03.tar.gz"
+[[PDAL]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a489da9057ab86cb899c5f6f1dbe86949349af78"
+libc = "musl"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "7a46a877fe7758bf50f58d02cb1b59343e6ee22c59d0577ed18eafcb5e292de5"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.aarch64-linux-musl-cxx11.tar.gz"
+[[PDAL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "49665c6059bf2333f990f9786a40f571d0788917"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "ec33ee1a5644e8fc8a31956ac4266ef98176fb1b6173d90e7c127d6e3a8f5fd1"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[PDAL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e7df46373e7b07ac6dc38bcc4e1a5e699265363c"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "9a9cebbbc8d39bd9f68a76ec58e8f05f3af5c99648d2da6bcf0337ef595d6f5d"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[PDAL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e296654fdf06c42623957c8509c3d4f9b0a66903"
+libc = "musl"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "69c63fdd776809a2afaf504953adf878b692313595e7c5cbf5bc27ff064b48bd"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[PDAL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dcd8cf4b8e2e1b178d48c72dee2f267003e6bf7a"
+libc = "musl"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "e2e7e066a663c6b43c3c2f0a0ad5bbdd774230239ccc45e7d03155400342db98"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[PDAL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4fd30893fefccfe4e9cdd21cb5b57399eb1afed1"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "04de1b4596c60c9ee218cbd9e74c593d58f30cfa340e6a07f958c7fb33bb4aa6"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[PDAL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a18cc0848959a5e7805ddc836e0bed3e6bdc0076"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "19808957721f7ae33ea4b7811b5aa230f5b9da9d03182e8a20e174a760a26e98"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[PDAL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bc63a413852c2e7a11667135a38c3a19fbd0a619"
+libc = "musl"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "d6f5e6236ac353cd480acdd7a306edc201b398d9e3a870dee9dc84f43888cf9b"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.i686-linux-musl-cxx03.tar.gz"
+[[PDAL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48419f705ef5de4633c7391a49ca0b083d082714"
+libc = "musl"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "966a8f6157c5a6d5dbe7c3b410c745ec1b6063916a1b6b8e75f435febc0e79e8"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.i686-linux-musl-cxx11.tar.gz"
+[[PDAL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9979b3a3f5121c26775f458951eb04e8d19b57b2"
+os = "windows"
+
+    [[PDAL.download]]
+    sha256 = "49ceb03cafe3534e5ed021b5f478d0b47b5efc5c022f15861983fdf10bb0173d"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.i686-w64-mingw32-cxx03.tar.gz"
+[[PDAL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ebbf2a29caa7a0349c861aad0b6d8070435e30f7"
+os = "windows"
+
+    [[PDAL.download]]
+    sha256 = "e65407331419c0c9aba114065ddde4af3c8da73224f5aea5b917e83a745be7f6"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.i686-w64-mingw32-cxx11.tar.gz"
+[[PDAL]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a2d29befad720c422cd3cae764bd00f160e7e1fe"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "e53de1d06b37858ef582ae0d14678c1baa9a8f5a5ab3949878c02480c7ed9807"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[PDAL]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26069480406fb72fcff4310b44d57aca4c060d2d"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "f8b13c55568ab81990e32e2decbd19523e4003abb46a25c60292cca3d2379c4b"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[PDAL]]
+arch = "x86_64"
+git-tree-sha1 = "5501903681acd91c539d7260da9dc51419fe2fc9"
+os = "macos"
+
+    [[PDAL.download]]
+    sha256 = "715e614579523e6578e0301afc0cad8b758613b5ac3a32ed1cf8357954d7c8c1"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.x86_64-apple-darwin.tar.gz"
+[[PDAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fe6304057da8dc2d341c7e38fb9c49e4becab793"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "e1cf520883ea649f25c2065fbc4b0af241564f26b44498ab1f4afa930bbd7f51"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[PDAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c8427861da42ce46b581ea5921fc19a2faa48b1c"
+libc = "glibc"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "92ce85967e5717a45226106f81057e96969215cd00fe30c979d0ed17b8b64515"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[PDAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8cbc0560c6827427d10259eea914fcfd294b289d"
+libc = "musl"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "df4b65861a4054b3f2857010f177314c9095a00cf4b762890515b68a56488314"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.x86_64-linux-musl-cxx03.tar.gz"
+[[PDAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c87f7a923fcff3f75058b6a7907b754504fcc79"
+libc = "musl"
+os = "linux"
+
+    [[PDAL.download]]
+    sha256 = "f1c95deb7cdb410e72cf425b80b656797fe4ee538078b0c3a2c3207cf9397acb"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[PDAL]]
+arch = "x86_64"
+git-tree-sha1 = "1419d60631bd20d389ad881f8031768ccb258d2c"
+os = "freebsd"
+
+    [[PDAL.download]]
+    sha256 = "d010349e299c83f1e31ab63260125f19bdbfcc56a68b2c306cb9fad6ea022f70"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.x86_64-unknown-freebsd.tar.gz"
+[[PDAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a93f5c78f00fd73e65d1d776c6637cd57b1fcb3"
+os = "windows"
+
+    [[PDAL.download]]
+    sha256 = "fb3ae27c0ecbefa8f28e4df4935ac6066ecb99199b0f2a6d0488df13156c5495"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[PDAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ad36eff7a7dd431ca1d47a8e961531caccdc125c"
+os = "windows"
+
+    [[PDAL.download]]
+    sha256 = "7dd4d16690f729c43d6b0a8b76100b5ee35f5513ee6af6e26eb7cd1641aa5576"
+    url = "https://github.com/JuliaBinaryWrappers/PDAL_jll.jl/releases/download/PDAL-v2.3.0+0/PDAL.v2.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
