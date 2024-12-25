@@ -2,13 +2,14 @@
 export libpdal_base, libpdal_plugin_kernel_fauxplugin, pdal
 
 using GDAL_jll
+using LibCURL_jll
 using libgeotiff_jll
 JLLWrappers.@generate_wrapper_header("PDAL")
 JLLWrappers.@declare_library_product(libpdal_base, "@rpath/libpdalcpp.18.dylib")
 JLLWrappers.@declare_library_product(libpdal_plugin_kernel_fauxplugin, "@rpath/libpdal_plugin_kernel_fauxplugin.18.dylib")
 JLLWrappers.@declare_executable_product(pdal)
 function __init__()
-    JLLWrappers.@generate_init_header(GDAL_jll, libgeotiff_jll)
+    JLLWrappers.@generate_init_header(GDAL_jll, LibCURL_jll, libgeotiff_jll)
     JLLWrappers.@init_library_product(
         libpdal_base,
         "lib/libpdalcpp.18.0.0.dylib",

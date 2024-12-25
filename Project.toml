@@ -4,6 +4,7 @@ version = "2.8.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+LibCURL_jll = "deac9b47-8bc7-5906-a0fe-35ac56dc84c0"
 GDAL_jll = "a7073274-a066-55f0-b90d-d619367d196c"
 libgeotiff_jll = "06c338fa-64ff-565b-ac2f-249532af990e"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
@@ -12,6 +13,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+LibCURL_jll = "7.73,8"
 GDAL_jll = "302.1000.0"
 libgeotiff_jll = "100.702.300"
 Libdl = "< 0.0.1, 1"
