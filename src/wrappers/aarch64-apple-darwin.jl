@@ -12,13 +12,13 @@ function __init__()
     JLLWrappers.@generate_init_header(GDAL_jll, LibCURL_jll, libgeotiff_jll)
     JLLWrappers.@init_library_product(
         libpdal_base,
-        "lib/libpdalcpp.18.0.0.dylib",
+        "lib/libpdalcpp.18.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libpdal_plugin_kernel_fauxplugin,
-        "lib/libpdal_plugin_kernel_fauxplugin.18.0.0.dylib",
+        "lib/libpdal_plugin_kernel_fauxplugin.18.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
