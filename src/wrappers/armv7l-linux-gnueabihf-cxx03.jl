@@ -5,8 +5,8 @@ using GDAL_jll
 using LibCURL_jll
 using libgeotiff_jll
 JLLWrappers.@generate_wrapper_header("PDAL")
-JLLWrappers.@declare_library_product(libpdal_base, "libpdalcpp.so.18")
-JLLWrappers.@declare_library_product(libpdal_plugin_kernel_fauxplugin, "libpdal_plugin_kernel_fauxplugin.so.18")
+JLLWrappers.@declare_library_product(libpdal_base, "libpdalcpp.so.19")
+JLLWrappers.@declare_library_product(libpdal_plugin_kernel_fauxplugin, "libpdal_plugin_kernel_fauxplugin.so.19")
 JLLWrappers.@declare_executable_product(pdal)
 function __init__()
     JLLWrappers.@generate_init_header(GDAL_jll, LibCURL_jll, libgeotiff_jll)
