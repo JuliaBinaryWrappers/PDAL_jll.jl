@@ -12,7 +12,7 @@ libgeotiff_jll = "06c338fa-64ff-565b-ac2f-249532af990e"
 
 [compat]
 Libdl = "< 0.0.1, 1"
-julia = "1.6"
+julia = "1.10"
 JLLWrappers = "1.7.0"
 Artifacts = "< 0.0.1, 1"
 LibCURL_jll = "7.73,8"
